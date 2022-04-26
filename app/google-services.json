@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589552904902",
+    "project_id": "musicapp-dd157",
+    "storage_bucket": "musicapp-dd157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589552904902:android:2be90bea6bd1d6b8eac5c7",
+        "android_client_info": {
+          "package_name": "com.babindia.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589552904902-rpp1dfpoc5f17jve9agqalcci7jjqkbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEr0Ma7T_7OfswmpE9R6JSHBtYKTmFzjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589552904902-rpp1dfpoc5f17jve9agqalcci7jjqkbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
